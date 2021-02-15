@@ -1,0 +1,5 @@
+numpy
+pandas
+rpy2 
+plotly==4.11.0
+scipy
