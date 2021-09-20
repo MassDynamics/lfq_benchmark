@@ -1,5 +1,7 @@
 # Discovery Benchmark 
 
+[![DOI](https://zenodo.org/badge/338978085.svg)](https://zenodo.org/badge/latestdoi/338978085)
+
 The discovery_benchmark codebase is designed to benchmark Label Free Quantification (LFQ) methods against benchmark datasets (iPRG2015) and the dynamic range benchmark dataset (referred to as UPS) dataset. 
 
 For details about the methods enacted by this codebase please see: **our Discovery BYO Paper**
