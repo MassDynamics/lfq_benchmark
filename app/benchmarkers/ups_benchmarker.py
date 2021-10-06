@@ -17,7 +17,7 @@ from ..confusion_matrix_calculator import ConfusionMatrixCalculator
 
 class UPSBenchmarker():
 
-    def __init__(self, experiment_home):
+    def __init__(self, experiment_home, mode):
 
         self.experiment_home = experiment_home
         self.spike_amounts = self.get_usp_data()
