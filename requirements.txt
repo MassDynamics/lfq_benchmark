@@ -3,3 +3,6 @@ pandas
 rpy2 
 plotly==4.11.0
 scipy
+sklearn
+nbformat>=4.2.0
+Kaleido
